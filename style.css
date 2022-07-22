@@ -1,0 +1,241 @@
+*{
+    margin:0;
+    padding:0;
+   
+    
+}
+
+body {
+    zoom:80%;
+}
+
+.video-topo{
+    margin-left: 34%;
+    margin-bottom: 2%;
+}
+
+.panda{
+    padding: 50px;
+    margin-top: 85px;
+display:contents;
+margin-left: 50%;
+}
+
+.ursinhos{
+    border-radius: 60%;
+}
+
+header{
+    background-color: yellow;
+    width: 100vw;
+    height: 79px;
+}
+section {
+    height: 1600px;
+    left: 0px;
+    top: 200px;
+    background: radial-gradient(50% 50% at 50% 50%, rgb(4 174 252) 0%, rgb(4 174 252) 0.01%), rgb(230, 230, 230);
+    border-radius: 0px;
+}
+
+
+
+.vermais{
+   
+        display: flex;
+        text-align: center;
+        
+        border-radius: 10px;
+        background-color: rgb(255, 0, 146);
+        /* margin-top: 15px; */
+        border: 2px solid pink;
+        padding: 20px;
+        height: 25px;
+    
+}
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+svg{
+  width:50%;
+}
+img{
+
+    width: 551px;
+    height: 431px;
+    margin-left: 98px;
+    top: 481px;
+    
+background: url(), #04aefc;
+border-radius: 0px;
+}
+
+.frames{
+    
+   display:flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    
+
+}
+
+.mySlides {
+    display: none;
+  }
+  
+  /* Add a pointer when hovering over the thumbnail images */
+  .cursor {
+    cursor: pointer;
+  }
+  
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* Container for image text */
+  .caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Six columns side by side */
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  /* Add a transparency effect for thumnbail images */
+  .demo {
+    opacity: 0.6;
+  }
+
+  #demotext {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    background: rgb(4 174 252);
+    padding: 100px;
+}
+  .pandad{
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 10%;
+  }
+  
+.final{
+    margin-left: 50px;
+}
+
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+.app {
+    text-align: center;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ff0092;
+    margin-top: 15px;
+    border: 2px solid pink;
+    padding: 20px;
+    height: 20px;
+}
+
+.video{
+    text-align: center;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ff0092;
+    margin-top: 15px;
+    border: 2px solid pink;
+    padding: 20px;
+    height: 20px;
+}
+
+.games{
+    text-align: center;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ff0092;
+    margin-top: 15px;
+    border: 2px solid pink;
+    padding: 20px;
+    height: 20px;
+}
+
+.rectangle-3 {
+    display: flex;
+    background-color:#04aefc;
+    height: 109px;
+    width: 100%;
+    /* margin-top: 70px; */
+    justify-content: space-around;
+}
+    .imgem {
+        border-radius: 50px;
+        width: 551px;
+        height: 320px;
+        left: 600px;
+        top: 230px;
+        
+        margin-top: 60px;
+    }
+    iframe {
+        margin-top: 80px;
+        zoom: 50%;
+        border: 80px solid rgb(4, 174, 252);
+    }
+
+
+button{
+    position: absolute;
+    width: 102px;
+height: 39px;
+left:90%;
+top: 15px;
+
+border: 2px solid #000000;
+border-radius: 0px;
+}
